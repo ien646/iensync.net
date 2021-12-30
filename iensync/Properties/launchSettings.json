@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iensync.net": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ien\\Documents\\iensync.net\\iensync\\entries.json"
+    }
+  }
+}
