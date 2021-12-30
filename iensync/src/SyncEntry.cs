@@ -1,11 +1,5 @@
 namespace iensync
 {
-    public enum SyncDirection
-    {
-        Remote,
-        Local,
-        Bidirectional
-    }
     public class SyncEntry
     {
         public string Host { get; set; } = "";
